@@ -1,0 +1,4 @@
+# set.add(el) #adds an elementi
+# set.remove(el) remove the elem an 
+# set.clear() empties the set
+# set.pop()  removes a random value

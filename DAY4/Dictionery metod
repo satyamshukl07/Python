@@ -1,0 +1,11 @@
+myDic.Keys()  return all Keys
+myDic.values() #return all values
+myDic.items()    return all (keys, val) pairs as tupels
+myDic.get("keys") return the key according to the values
+there is two type of tarika to get output in this code 
+d.get("keys") value 
+after enting these two types of wa u can get ans
+
+
+
+myDic.update(newDict) insert the specefic items to the dictionery 
