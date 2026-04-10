@@ -1,0 +1,27 @@
+
+built in function
+print()
+len()
+type()
+range()
+ 
+
+ user defind function
+
+ user defind function are the function in wich user can define there own what they want 
+ so, its a very imp and best function that we need in coding 
+ ok '
+
+ just take a example of that user defind fun 
+ like iam creating a function 
+ cal_mul(a,b)
+ print(a*b)
+ when u run this code and u dont gonna enter any number in the place of both numbers 
+ ok soo its shiws the error 
+ but by user defind method u can noon eroor meethod ok 
+
+ just u have to write this one in the code
+ cal_sum(a=1,b=1)
+
+ then when user not gona enter any number then u dint get any error ok!!!
+ that"s all
